@@ -1,0 +1,12 @@
+# Executaveis e arquivos de compilacao
+/build/
+*.o
+*.exe
+*.out
+*.obj
+*.dSYM/
+
+# Logs / artefatos de diagnostico
+*.log
+core
+core.*
